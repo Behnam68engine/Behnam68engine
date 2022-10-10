@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-I love C language and I wrote my first project "language C"!
+I love C language and I wrote my first project "language C just C"!
 N8
 <!---
 Behnam68engine/Behnam68engine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
